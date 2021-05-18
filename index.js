@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const http = require('http');
-const server = http.createServer(app);
+const server = https://nftchat-6g4vnuv5v-defy-h0dl.vercel.app/?;
 const { Server } = require("socket.io");
 const io = new Server(server);
 
